@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Kayýt Ol</title>
+<title>KAYIT OL</title>
 <link rel='stylesheet' href='css/style.css'/>
 </head>
 <body>

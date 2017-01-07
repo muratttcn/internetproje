@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Giriþ</title>
+<title>GIRIS</title>
 <link rel='stylesheet' href='css/style.css'/>
 </head>
 <body>
@@ -9,7 +9,7 @@
 <?php include 'header.php'; ?>
 
 <div id='body'>
-<b>Giriþ Yap</b>
+<b>GIRIS Yap</b>
 <br/><br/>
 <form method='post'>
 <?php
@@ -47,7 +47,8 @@ Kullanýcý Adý:<br/>
 Þifre:<br/>
 <input type='password' name='password'/>
 <br/><br/>
-<input type='submit' name='submit' value='Giriþ'/>
+<input type='submit' name='submit' value='GIRIS'/>
+
 </form>
 </div>
 
