@@ -1,8 +1,9 @@
 <div id='header'>
 <div id='left'>
-<b><marquee>KUTUPHANE OTOMASYONUNA HOSGELDINIZ</marquee></b>
+<img src="images/logo.png" alt="logo.png" width="200"/>
 </div>
 <div id='right'>
+
     <a href='index.php'>ANASAYFA</a>
 	<?php
 	if(loggedin())
